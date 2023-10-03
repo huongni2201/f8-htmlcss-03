@@ -131,8 +131,6 @@ a {
 }
 
 /* Navbar */
-.navbar {
-}
 
 .navbar__list {
     display: flex;
@@ -300,6 +298,7 @@ a {
 
 .service-item:hover {
     position: relative;
+    cursor: pointer;
     box-shadow: 0px 14px 28px 0px rgba(0, 0, 0, 0.05);
 }
 
